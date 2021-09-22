@@ -10,11 +10,11 @@ body {
 }
 .b {
   background-color: rgb(255, 64, 0);
-  height: 150px;
-  width: 150px;
+  height: 10vh;
+  width: 10vh;
 }
 .c {
   background-color: rgb(255, 0, 0);
-  height: 150px;
-  width: 150px;
+  height: 10vh;
+  width: 10vh;
 }
